@@ -1,2 +1,3 @@
 name: violet berry
 markdown: vdown
+permalink: /blog/:year/:month/:day/:title
